@@ -39,4 +39,4 @@ chgrp: Altera o grupo do arquivo.
 ## 💀 5. Dica de Red Team: O Perigo do 777
 Nunca use chmod 777 em produção. Isso dá permissão de escrita para qualquer pessoa no sistema. É como deixar a porta da frente aberta com uma placa escrita "Pode entrar". No Red Team, encontrar um arquivo 777 é o primeiro passo para uma escalação de privilégios.
 
-![Banner Dark Tech]([https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW03c2c0NTNxemoyMHhhdDRvOWIxZ3pyY2Z1ZjVla2t6OXczcTA4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/utx4rJxu0MiGc/giphy.gif])
+![Texto Alternativo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZkOWM0ZDRmbmRtenhxOXAwZ2g5d2d5cDQwbHpldmhlOHkzZjN2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6Hy6Oxr6US19OLJfVh/giphy.gif)
